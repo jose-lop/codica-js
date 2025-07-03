@@ -1,0 +1,12 @@
+{
+  "name": "codica-js",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto en codica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jose Antonio",
+  "license": "MIT"
+}
