@@ -1,12 +1,11 @@
 {
-  "name": "codica-js",
+  "name": "jose",
   "version": "1.0.0",
-  "description": "Mi primer proyecto en codica",
+  "description": "bienvenido a mi proyecto",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Jose Antonio",
-  "license": "MIT"
+  "author": "",
+  "license": "ISC"
 }
