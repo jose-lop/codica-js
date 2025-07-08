@@ -1,3 +1,3 @@
-console.log("Hello, Códica!");
-const _ = require('lodash');
-console.log(_.last(['uno', 'dos']));
+import { miFuncion } from './src/index.js';
+
+miFuncion();
